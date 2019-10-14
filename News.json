@@ -11,4 +11,58 @@
 	"img": "https://media.contentapi.ea.com/content/dam/apex-legends/images/2019/09/apex-twitch-prime-caustic-16x9.jpg.adapt.crop16x9.431p.jpg",
 	"short_desc": "Get this breathtaking skin free with your Twitch Prime membership."
   },
+  {
+        "title": "APEX LEGENDS RANKED LEAGUE SERIES 2 KICKS OFF OCTOBER 1",
+	"link": "https://www.ea.com/en-gb/games/apex-legends/news/ranked-league-series-2",
+	"img": "https://media.contentapi.ea.com/content/dam/apex-legends/images/2019/09/apex-featured-image-ranked-leagues-2-update.jpg.adapt.crop16x9.431p.jpg",
+	"short_desc": "Get all the details on Series 2 from the Respawn team"
+  },
+  {
+        "title": "APEX LEGENDS LIFELINE EDITION AND APEX LEGENDS BLOODHOUND EDITION AVAILABLE OCTOBER 18",
+	"link": "https://www.ea.com/en-gb/games/apex-legends/news/lifeline-edition-bloodhound-edition-physical-release",
+	"img": "https://media.contentapi.ea.com/content/dam/apex-legends/images/2019/09/retail-sku.jpg.adapt.crop16x9.431p.jpg",
+	"short_desc": "Grab exclusive skins for Lifeline and Bloodhound, themed weapon skins, and more in these physical editions of Apex Legends."
+  },
+  {
+        "title": "WATCH THE BEST TEAMS IN THE WORLD COMPETE AT THE APEX PRESEASON INVITATIONAL",
+	"link": "https://www.ea.com/en-gb/games/apex-legends/news/preseason-invitational-2019",
+	"img": "https://media.contentapi.ea.com/content/dam/apex-legends/images/2019/08/apex-featured-image-preseason-invitational.jpg.adapt.crop16x9.431p.jpg",
+	"short_desc": "Catch all the action September 13 – 15 in Kraków, Poland or streaming live on Twitch, YouTube, Mixer, and Facebook!"
+  },  
+  {
+        "title": "GET TO BAMBOOZLIN’ WITH EXCLUSIVE TWITCH PRIME MIRAGE AND KRABER SKINS",
+	"link": "https://www.ea.com/en-gb/games/apex-legends/news/twitch-prime-offer-season-2-mirage",
+	"img": "https://media.contentapi.ea.com/content/dam/apex-legends/images/2019/08/apex-twitch-prime-mirage-16x9-optimized.jpg.adapt.crop16x9.431p.jpg",
+	"short_desc": "Grab these skins before they disappear, free with your Twitch Prime membership."
+  },
+  {
+        "title": "VOIDWALKER LIMITED TIME EVENT & PATCH NOTES",
+	"link": "https://www.ea.com/en-gb/games/apex-legends/news/voidwalker-event",
+	"img": "https://media.contentapi.ea.com/content/dam/apex-legends/common/voidwalker-5.jpg.adapt.crop16x9.431p.jpg",
+	"short_desc": "A two-week long event focused on everyone’s favorite interdimensional skirmisher."
+  },
+  {
+        "title": "APEX LEGENDS EVENT STRUCTURE OVERVIEW",
+	"link": "https://www.ea.com/en-gb/games/apex-legends/news/event-overview",
+	"img": "https://media.contentapi.ea.com/content/dam/apex-legends/common/headers/stock-news-article-headers/cascades/ea-featured-tile-apex-generic-header-cascades-16x9.jpg.adapt.crop16x9.431p.jpg",
+	"short_desc": "Learn more about Apex Legends in-game events from Director of Product Management for Apex Legends, Lee Horn."
+  },
+  {
+        "title": "AN UPDATE ON THE IRON CROWN COLLECTION EVENT",
+	"link": "https://www.ea.com/en-gb/games/apex-legends/news/iron-crown-update",
+	"img": "https://media.contentapi.ea.com/content/dam/apex-legends/images/2019/03/ea-featured-tile-apex-legends-plays-of-the-week-mar8-16x9.jpg.adapt.crop16x9.431p.jpg",
+	"short_desc": "Respawn Entertainment’s Drew McCoy provides players an update on the event."
+  },
+  {
+        "title": "CRASH INTO AN EXCLUSIVE OCTANE SKIN WITH TWITCH PRIME",
+	"link": "https://www.ea.com/en-gb/games/apex-legends/news/twitch-prime-offer-season-2-octane",
+	"img": "https://media.contentapi.ea.com/content/dam/apex-legends/images/2019/08/apex-tile-whiplash-octane-twitch-prime-blog-16x9.jpg.adapt.crop16x9.431p.jpg",
+	"short_desc": "Get a skin so good it’ll give you whiplash, free with your Twitch Prime membership."
+  },
+  {
+        "title": "REIGN OVER THE ARENA DURING THE APEX LEGENDS IRON CROWN COLLECTION EVENT",
+	"link": "https://www.ea.com/en-gb/games/apex-legends/news/iron-crown-collection-event-august-2019",
+	"img": "https://media.contentapi.ea.com/content/dam/apex-legends/images/2019/08/iron-crown-featured.jpg.adapt.crop16x9.431p.jpg",
+	"short_desc": "A limited-time Solo mode, an Octane Town Takeover, and more are waiting in the Apex Arena."
+  }
 ]

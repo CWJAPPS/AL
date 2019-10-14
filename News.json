@@ -37,9 +37,15 @@
   },
   {
         "title": "VOIDWALKER LIMITED TIME EVENT & PATCH NOTES",
-	"link": "https://www.ea.com/en-gb/games/apex-legends/news/voidwalker-event",
+	"link": "https://www.ea.com/en-gb/games/apex-legends/news/voidwalker-event-patch-notes",
 	"img": "https://media.contentapi.ea.com/content/dam/apex-legends/common/voidwalker-5.jpg.adapt.crop16x9.431p.jpg",
 	"short_desc": "A two-week long event focused on everyone’s favorite interdimensional skirmisher."
+  },
+  {
+        "title": "APEX LEGENDS VOIDWALKER EVENT",
+	"link": "https://www.ea.com/en-gb/games/apex-legends/news/voidwalker-event",
+	"img": "https://media.contentapi.ea.com/content/dam/apex-legends/images/2019/08/apex-featured-tile-voidwalker-event.jpg.adapt.crop16x9.431p.jpg",
+	"short_desc": "A mysterious research site has been unearthed in Kings Canyon that was used as part of Project: Wraith."
   },
   {
         "title": "APEX LEGENDS EVENT STRUCTURE OVERVIEW",

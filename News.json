@@ -1,5 +1,17 @@
 [
-   {
+  {
+        "title": "INVITE THAT SPECIAL SOMEONE TO JOIN YOU FOR RENDEZVOUS",
+	"link": "https://www.ea.com/en-gb/games/apex-legends/news/rendezvous",
+	"img": "https://media.contentapi.ea.com/content/dam/apex-legends/images/2020/02/apex-valentines-crops-horz-3840x2160.jpg.adapt.crop16x9.431p.jpg",
+	"short_desc": "Play Duos and get themed items during the Valentine’s Day Rendezvous - Feb. 11-18"
+  },
+  {
+        "title": "TUG OUT THEIR HEART STRINGS WITH THIS EXCLUSIVE TWITCH PRIME REVENANT SKIN",
+	"link": "https://www.ea.com/en-gb/games/apex-legends/news/twitch-prime-offer-season-4-revenant-gilded-rose",
+	"img": "https://media.contentapi.ea.com/content/dam/apex-legends/images/2020/02/apex-drop3-news-16x9.png.adapt.crop16x9.431p.png",
+	"short_desc": "Get this romantic-ish Revenant skin free with your Twitch Prime membership."
+  },
+  {
         "title": "SEASON 4 MAP UPDATES EXPLAINED",
 	"link": "https://www.ea.com/en-gb/games/apex-legends/news/season-4-map-update",
 	"img": "https://media.contentapi.ea.com/content/dam/apex-legends/images/2020/02/map-featured.jpg.adapt.crop16x9.431p.jpg",

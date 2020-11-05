@@ -1,5 +1,22 @@
 [
-	
+  {
+        "title": "WELCOME TO OLYMPUS",
+	"link": "https://www.ea.com/games/apex-legends/news/season-7-olympus",
+	"img": "https://media.contentapi.ea.com/content/dam/apex-legends/images/2020/11/apex-blog-image-olympus-map-19-olympus-wide.jpg.adapt.crop16x9.431p.jpg",
+	"short_desc": "Get to know the city in the clouds before you ascend in Season 7."
+  },
+  {
+        "title": "SIMPLIFIED CHALLENGES IN SEASON 7",
+	"link": "https://www.ea.com/games/apex-legends/news/season-7-simplified-challenges",
+	"img": "https://media.contentapi.ea.com/content/dam/apex-legends/images/2020/11/simplified-challenges-blog/apex-legends-screenshot-season7-bp-03-rev-clean.jpg.adapt.crop16x9.431p.jpg",
+	"short_desc": "Learn how we’re making challenges more convenient and rewarding."
+  },
+  {
+        "title": "ASCENSION PATCH NOTES",
+	"link": "https://www.ea.com/games/apex-legends/news/ascension-patch-notes",
+	"img": "https://media.contentapi.ea.com/content/dam/apex-legends/images/2020/11/ascension-patch-notes/apex-legends-screenshot-season7-bp-09-octane-prowler-clean.jpg.adapt.crop16x9.431p.jpg",
+	"short_desc": "Learn more about Olympus, Horizon, Trident vehicles, Battle Pass, and other adjustments and balance changes."
+  },
   {
         "title": "APEX LEGENDS EA PLAY ANNOUNCEMENTS",
 	"link": "https://www.ea.com/games/apex-legends/news/ea-play-announcements",
